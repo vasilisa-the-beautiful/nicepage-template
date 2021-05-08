@@ -1,0 +1,211 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 274px;
+}
+
+.u-section-1 .u-list-1 {
+  width: 689px;
+  min-height: 204px;
+  grid-template-rows: auto auto auto;
+  margin: 0 auto 60px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-auto-columns: 100%;
+  grid-template-columns: 100%;
+  grid-gap: 0px 0px;
+  grid-auto-rows: 33.33%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 20px 30px 10px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -20px 517px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: 0;
+}
+
+.u-section-1 .u-line-1 {
+  transform-origin: left center 0px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.u-section-1 .u-list-item-2 {
+  background-size: auto;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 20px 30px 10px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -20px 548px 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 400;
+  margin: 0;
+}
+
+.u-section-1 .u-line-2 {
+  transform-origin: left center 0px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.u-section-1 .u-list-item-3 {
+  background-size: auto;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 20px 30px 10px;
+}
+
+.u-section-1 .u-text-5 {
+  margin: -20px 521px 0 0;
+}
+
+.u-section-1 .u-btn-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 400;
+  margin: 0;
+}
+
+.u-section-1 .u-line-3 {
+  transform-origin: left center 0px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 671px;
+  }
+
+  .u-section-1 .u-list-1 {
+    min-height: 551px;
+    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    text-transform: none;
+  }
+
+  .u-section-1 .u-line-1 {
+    height: 3px;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-3 {
+    text-transform: none;
+  }
+
+  .u-section-1 .u-line-2 {
+    height: 3px;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-5 {
+    text-transform: none;
+  }
+
+  .u-section-1 .u-line-3 {
+    height: 3px;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 666px;
+  }
+
+  .u-section-1 .u-list-1 {
+    min-height: 204px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 549px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 540px;
+    min-height: 447px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 408px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 439px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 412px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 383px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+    min-height: 281px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 208px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 239px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 212px;
+  }
+}@font-face {
+  font-family: 'Otamendi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Otamendi.ttf);
+}
